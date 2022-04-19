@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+For the first step I decide to focus on functionality not design.
+More details we could discuss in person.
+
+Additionally:
+Angular already comes with many tools for good performance and data display.
+In addition, however, large amounts of data can be preloaded or you can work with caches
